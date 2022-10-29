@@ -6,4 +6,4 @@ node{
 stage('execute maven targets') {
     sh 'mvn install'
 }
-    
+ }   
